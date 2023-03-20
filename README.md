@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=droysky&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=droysky&show_icons=true&theme=transparent)
