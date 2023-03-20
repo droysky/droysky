@@ -3,6 +3,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=droysky&theme=dark)
 ![](https://leetcard.jacoblin.cool/droysky?width=500&height=200,&theme=dark)
 
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=droysky&layout=compact,&theme=dark)
