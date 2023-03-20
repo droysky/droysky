@@ -1,5 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=15C828&width=435&lines=Hi%2C+i'm+a+C%2FC%2B%2B+developer...)](https://git.io/typing-svg)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/droysky/github-readme-stats)
 <!--
 **droysky/droysky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
