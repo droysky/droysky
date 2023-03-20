@@ -3,5 +3,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=droysky&theme=dark)
 ![](https://leetcard.jacoblin.cool/droysky?width=500&height=200,&theme=dark)
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=droysky&theme=dark)
