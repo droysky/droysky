@@ -4,3 +4,4 @@
 ![](https://leetcard.jacoblin.cool/droysky?width=500&height=200,&theme=dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=droysky&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=droysky&theme=dark)
