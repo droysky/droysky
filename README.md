@@ -4,4 +4,5 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=droysky&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)[](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
