@@ -2,7 +2,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=droysky&theme=dark)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=droysky&layout=compact,&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=droysky&theme=dark)
 ![](https://leetcard.jacoblin.cool/droysky?width=500&height=200,&theme=dark)
 
 
